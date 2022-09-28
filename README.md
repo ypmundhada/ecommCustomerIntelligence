@@ -1,6 +1,6 @@
 # Ecommerce Customer Intelligence
 
-This project was had four different tasks:
+This project had four different tasks:
 1)Calculating the Customer Lifetime Value (CLTV) for each customer from the given dataset containing
 events data (view, add to cart or transact) from an e-commerce website.
 2)Forecasting the demand for different products and category types based on the sales data in the given
