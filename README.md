@@ -1,4 +1,6 @@
-# Ecommerce Customer Intelligence
+# ecommCustomerIntelligence
+Ecommerce Customer Intelligence
+
 This project had four different tasks:
 1)Calculating the Customer Lifetime Value (CLTV) for each customer from the given dataset containing
 events data (view, add to cart or transact) from an e-commerce website.
